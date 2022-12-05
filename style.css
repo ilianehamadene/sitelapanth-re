@@ -60,6 +60,10 @@ a:hover {
     padding: 20px 50px;
 }
 
+.bigger{
+    font-size: 18px;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
